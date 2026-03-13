@@ -309,3 +309,5 @@ __vsc_prompt_cmd_original
 cd ../../..
 find ./client/assets/fonts
 rmdir fonts
+rm --help
+rm -r fonts
