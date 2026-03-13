@@ -261,3 +261,12 @@ find /workspace/project/website -name footer.jpeg
 mv /workspace/project/website/images/footer.jpeg /workspace/project/website/client/assets/images/
 find
 rmdir website/images
+rmdir ./website/images/
+LS
+LS
+ls --color=auto
+rmdir images
+rmdir -r images
+rmdir --help
+rmdir --ignore-fail-on-non-empty
+rmdir --ignore-fail-on-non-empty images
