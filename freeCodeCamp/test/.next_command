@@ -270,3 +270,4 @@ rmdir -r images
 rmdir --help
 rmdir --ignore-fail-on-non-empty
 rmdir --ignore-fail-on-non-empty images
+ls --color=auto /
