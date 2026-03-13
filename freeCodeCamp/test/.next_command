@@ -220,3 +220,31 @@ __vsc_dbg_trap="$(__vsc_get_trap DEBUG)"
 trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ls --color=auto
+find
+clear
+cd freeCodeCamp
+find
+clear
+find images
+find client/assets/images
+find client/assets/images
+find
+find client
+cd client
+cd website/client/assets/images
+clear
+ls --color=auto /
+cd cd /workspace/project/website
+cd /workspace/project/website
+cd /client/assets/images
+cd client/assets/images
+ls --color=auto
+cd website
+cd ../../..
+ls --color=auto
+cd images
+ls --color=auto
+mv client/assets/images
+client/assets/images
+mv header.png ../client/assets/images/
+find header.png
