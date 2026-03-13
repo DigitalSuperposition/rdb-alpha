@@ -260,3 +260,4 @@ mv footer.jpeg ../client/assets/images/
 find /workspace/project/website -name footer.jpeg
 mv /workspace/project/website/images/footer.jpeg /workspace/project/website/client/assets/images/
 find
+rmdir website/images
