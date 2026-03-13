@@ -293,3 +293,4 @@ find ./client/assets/icons
 mkdir ./client/assets/fonts
 touch roboto-bold.woff ./client/assets/fonts
 touch roboto-light.woff ./client/assets/fonts
+find ./client/assets/fonts
