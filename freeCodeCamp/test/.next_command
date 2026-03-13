@@ -308,3 +308,4 @@ mv lato-light.woff lato-light.ttf
 __vsc_prompt_cmd_original
 cd ../../..
 find ./client/assets/fonts
+rmdir fonts
