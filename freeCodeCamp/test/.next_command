@@ -271,3 +271,9 @@ rmdir --help
 rmdir --ignore-fail-on-non-empty
 rmdir --ignore-fail-on-non-empty images
 ls --color=auto /
+ls --color=auto
+rm website/images/background.jpeg
+rm -r website/images/background.jpeg
+rm images/background.jpg
+rmdir images
+ls --color=auto
